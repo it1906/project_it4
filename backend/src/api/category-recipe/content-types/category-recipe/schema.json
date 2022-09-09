@@ -1,0 +1,24 @@
+{
+  "kind": "collectionType",
+  "collectionName": "category_recipes",
+  "info": {
+    "singularName": "category-recipe",
+    "pluralName": "category-recipes",
+    "displayName": "CategoryRecipe"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "recipes": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::recipe.recipe",
+      "inversedBy": "category_recipes"
+    }
+  }
+}
