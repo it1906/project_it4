@@ -41,6 +41,9 @@
       "relation": "manyToMany",
       "target": "api::category-recipe.category-recipe",
       "inversedBy": "recipes"
+    },
+    "Description": {
+      "type": "text"
     }
   }
 }
