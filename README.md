@@ -9,16 +9,38 @@ Ve volném čase dělám občas jídelní plány na míru jako formu brigády a 
 
 Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako možnost poznat jazyk.
 
-## Plán
+## Cíle
 Rád bych aby tento projekt obsahoval následující prvky:
 - přehledný design
 - seznam receptů, řadu filtrů, možnost vyhledávání pomocí textového pole
 - detail jednotlivého receptu obsahující seznam ingrediencí, postup, popis
-- seznam cviků, filtrovaných podle částí těla a náročnosti
+- seznam cviků, filtrovaných podle částí těla
 - detail cviku, video návod
 - možnost přihlášení, ukládání receptů a cviků do oblíbených
 - různé kalkulačky jako např. BMI, KCAL
 - aplikace by obsahovala Docker
+
+## Harmonogram
+### Září
+  Studování Reactu, orientace ve Strapi.
+  
+### Říjen - 1. polovina
+  Doplnit do Strapi co nejvíce údajů.
+  
+### Říjen - 2. polovina
+  Mít zaplněný backend, připravena videa a fotografie potřebné k receptům a cvikům. 
+
+### Listopad - 1. polovina
+  Začít psát frontend. Dokončit první draft.
+
+### Listopad - 2. polovina
+  Dokončit frontend. Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace. 
+  
+### Prosinec - 1. polovina
+  Dostat aplikaci do obhajobyschopného stavu. Práce na dokumentaci. 
+  
+### Prosinec - 2. polovina
+  Dokončit dokumentaci. Nechat si čas na případné last minute touches. 
 
 ### Zdroje
 V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.
