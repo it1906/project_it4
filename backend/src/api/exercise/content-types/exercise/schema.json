@@ -8,7 +8,7 @@
     "description": ""
   },
   "options": {
-    "draftAndPublish": false
+    "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
@@ -31,6 +31,12 @@
       "type": "relation",
       "relation": "manyToMany",
       "target": "api::category.category",
+      "mappedBy": "exercises"
+    },
+    "mediums": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::medium.medium",
       "mappedBy": "exercises"
     }
   }
