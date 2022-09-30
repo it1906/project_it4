@@ -10,15 +10,21 @@ Ve volném čase dělám občas jídelní plány na míru jako formu brigády a 
 Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako možnost poznat jazyk.
 
 ## Cíle
-Rád bych aby tento projekt obsahoval následující prvky:
 - přehledný design
-- seznam receptů, řadu filtrů, možnost vyhledávání pomocí textového pole
+- stráku se seznamem receptů
 - detail jednotlivého receptu obsahující seznam ingrediencí, postup, popis
-- seznam cviků, filtrovaných podle částí těla
+- seznam cviků, filtrovaných podle částí těla s použitím bitmapy
 - detail cviku, video návod
-- možnost přihlášení, ukládání receptů a cviků do oblíbených
+- možnost přihlášení, přihlášení uživatelé by měli možnost dát receptu reakci
 - různé kalkulačky jako např. BMI, KCAL
 - aplikace by obsahovala Docker
+
+## Konzultanti
+ p.uč. Lučný
+ p.uč. Grussmann
+
+## Použité technologie
+ Jak už jsem se zmínil stránku je psána v Reactu. Backend jede ve Strapi. Dále jsou zde prvky např. Apollo providera, Bootstrapu. 
 
 ## Harmonogram
 ### Září
@@ -44,3 +50,5 @@ Rád bych aby tento projekt obsahoval následující prvky:
 
 ### Zdroje
 V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.
+Strapi Tutorial od The Net Ninja:
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn
