@@ -12,13 +12,15 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "Name": {
-      "type": "string"
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
     },
-    "Kcal": {
+    "kcal": {
       "type": "integer"
     },
-    "Image": {
+    "image": {
       "type": "media",
       "multiple": false,
       "required": false,
@@ -26,14 +28,14 @@
         "images"
       ]
     },
-    "Likes": {
+    "likes": {
       "type": "integer",
       "default": 0
     },
-    "Instructions": {
+    "instructions": {
       "type": "richtext"
     },
-    "Ingredients": {
+    "ingredients": {
       "type": "richtext"
     },
     "category_recipes": {
@@ -42,7 +44,7 @@
       "target": "api::category-recipe.category-recipe",
       "inversedBy": "recipes"
     },
-    "Description": {
+    "description": {
       "type": "text"
     },
     "mediums": {
