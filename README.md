@@ -20,8 +20,8 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
 - aplikace by obsahovala Docker
 
 ## Konzultanti
- p.uč. Lučný "\n"
- p.uč. Grussmann
+ - p.uč. Lučný
+ - p.uč. Grussmann
 
 ## Použité technologie
  Jak už jsem se zmínil stránku je psána v Reactu. Backend jede ve Strapi. Dále jsou zde prvky např. Apollo providera, Bootstrapu. 
@@ -50,5 +50,5 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
 
 ### Zdroje
 V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.
-Strapi Tutorial od The Net Ninja:
-https://www.youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPxn
+
+- Strapi Tutorial od The Net Ninja: https://www.youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPx
