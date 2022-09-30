@@ -20,7 +20,7 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
 - aplikace by obsahovala Docker
 
 ## Konzultanti
- p.uč. Lučný
+ p.uč. Lučný "\n"
  p.uč. Grussmann
 
 ## Použité technologie
