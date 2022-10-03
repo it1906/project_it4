@@ -52,8 +52,7 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
   Mapování skrze pole receptů. 
 
 ### Zdroje
-Asi nejdůležitější zdroj je externí API, ze kterého jsem čerpal recepty a sice https://spoonacular.com/food-api
-V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.
-
+Asi nejdůležitější zdroj je externí API, ze kterého jsem čerpal recepty a sice https://spoonacular.com/food-api<br />
+V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.<br />
 - Strapi Tutorial od The Net Ninja: https://www.youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPx
 
