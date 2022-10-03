@@ -47,6 +47,9 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
   
 ### Prosinec - 2. polovina
   Dokončit dokumentaci. Nechat si čas na případné last minute touches. 
+  
+### Problémy
+  Mapování skrze pole receptů. 
 
 ### Zdroje
 V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.
