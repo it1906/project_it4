@@ -19,10 +19,10 @@ Mám v plánu použít **Strapi** pro backend a **React.js** pro frontend.
 
 ## Harmonogram
 ### Září
-  Studování Reactu, orientace ve Strapi. Datový model a doplnění informací.
+  Studování Reactu, orientace ve Strapi. Datový model a doplnění informací. [x]
   
 ### Říjen 
-1. Polovina:<br/> Začít psát frontend. 
+1. Polovina:<br/> Začít psát frontend. [x]
 2. Polovina:<br/> Dokončit první draft.
 
 ### Listopad
