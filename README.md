@@ -16,14 +16,14 @@ Mám v plánu použít **Strapi** pro backend a **React.js** pro frontend.
 
 ## Použité technologie
  React, Strapi, Bootstrap
-
+ 
 ## Časový harmonogram
 ### Září
   Studování Reactu, orientace ve Strapi. Datový model a doplnění informací. ✔️
   
 ### Říjen 
-1. Polovina:<br/> Začít psát frontend. ✔️
-2. Polovina:<br/> Dokončit první draft.
+1. Polovina:<br/> Začít psát frontend. ✔️<br/> Přehled receptů<br/> Detail receptu<br/>
+3. Polovina:<br/> Dokončit první draft.
 
 ### Listopad
 1. Polovina:<br/> Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace.
