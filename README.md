@@ -31,19 +31,19 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
   Studování Reactu, orientace ve Strapi.
   
 ### Říjen - 1. polovina
-  Doplnit do Strapi co nejvíce údajů.
+  Začít psát frontend. 
   
 ### Říjen - 2. polovina
-  Mít zaplněný backend, připravena videa a fotografie potřebné k receptům a cvikům. 
+  Dokončit první draft.
 
 ### Listopad - 1. polovina
-  Začít psát frontend. Dokončit první draft.
+  Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace. 
 
 ### Listopad - 2. polovina
-  Dokončit frontend. Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace. 
+  Dostat aplikaci do obhajobyschopného stavu. Dokončit frontend. 
   
 ### Prosinec - 1. polovina
-  Dostat aplikaci do obhajobyschopného stavu. Práce na dokumentaci. 
+  Práce na dokumentaci. 
   
 ### Prosinec - 2. polovina
   Dokončit dokumentaci. Nechat si čas na případné last minute touches. 
@@ -52,7 +52,10 @@ Tímto projektem bych se rád ponořil hlouběji do studia Reactu a beru to jako
   Mapování skrze pole receptů. 
 
 ### Zdroje
-Asi nejdůležitější zdroj je externí API, ze kterého jsem čerpal recepty a sice https://spoonacular.com/food-api<br />
+Asi nejdůležitější zdroj je externí API, ze kterého jsem čerpal recepty a sice: <br/>
+https://spoonacular.com/food-api<br />
 V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.<br />
 - Strapi Tutorial od The Net Ninja: https://www.youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPx
+- React dokumentace: https://reactjs.org/docs/getting-started.html
+- 
 
