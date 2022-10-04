@@ -22,16 +22,16 @@ Mám v plánu použít **Strapi** pro backend a **React.js** pro frontend.
   Studování Reactu, orientace ve Strapi. Datový model a doplnění informací.
   
 ### Říjen 
-1. polovina<br/> Začít psát frontend. 
-2. polovina<br/> Dokončit první draft.
+1. Polovina:<br/> Začít psát frontend. 
+2. Polovina:<br/> Dokončit první draft.
 
 ### Listopad
-1. polovina<br/> Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace.
-2. 2. polovina<br/> Dostat aplikaci do obhajobyschopného stavu. Dokončit frontend.
+1. Polovina:<br/> Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace.
+2. Polovina:<br/> Dostat aplikaci do obhajobyschopného stavu. Dokončit frontend.
 
 ### Prosinec 
-1. polovina<br/> Práce na dokumentaci.
-2. polovina<br/> Dokončit dokumentaci. Nechat si čas na případné last minute touches.
+1. Polovina:<br/> Práce na dokumentaci.
+2. Polovina:<br/> Dokončit dokumentaci. Nechat si čas na případné last minute touches.
 
 ### Problémy
   Mapování skrze pole receptů. 
