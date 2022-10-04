@@ -50,5 +50,5 @@ https://spoonacular.com/food-api<br />
 V průběhu práce budu zde přidávat zdroje, ze kterých jsem čerpal.<br />
 - Strapi Tutorial od The Net Ninja: https://www.youtube.com/playlist?list=PL4cUxeGkcC9h6OY8_8Oq6JerWqsKdAPx
 - React dokumentace: https://reactjs.org/docs/getting-started.html
-- 
+- React tutorial W3Schools: https://www.w3schools.com/REACT/DEFAULT.ASP
 
