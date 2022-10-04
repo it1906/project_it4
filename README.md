@@ -3,12 +3,10 @@ V rámci závěrečného projektu jsem se rozhodl vybudovat webovou aplikaci zam
 Mám v plánu použít **Strapi** pro backend a **React.js** pro frontend.
 
 ## Cíle
-- přehledný design
-- stráku se seznamem receptů
-- detail jednotlivého receptu obsahující seznam ingrediencí, postup, popis
-- seznam cviků, filtrovaných podle částí těla s použitím bitmapy
-- detail cviku, video návod
-- možnost přihlášení, přihlášení uživatelé by měli možnost dát receptu reakci
+- design psaný v Reactu
+- stránky se seznamem a detailem receptu
+- seznam a detail cviku, použít při filtrování bitmapu
+- možnost přihlášení, přihlášení uživatele by měli k dispozici více funkcí
 - různé kalkulačky jako např. BMI, KCAL
 - aplikace by obsahovala Docker
 
