@@ -26,19 +26,13 @@ Mám v plánu použít **Strapi** pro backend a **React.js** pro frontend.
 2. polovina<br/> Dokončit první draft.
 
 ### Listopad
-<b>1. polovina</b><br/>Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace.
-2. 
-   
+1. polovina<br/> Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace.
+2. 2. polovina<br/> Dostat aplikaci do obhajobyschopného stavu. Dokončit frontend.
 
-### Listopad - 2. polovina
-  Dostat aplikaci do obhajobyschopného stavu. Dokončit frontend. 
-  
-### Prosinec - 1. polovina
-  Práce na dokumentaci. 
-  
-### Prosinec - 2. polovina
-  Dokončit dokumentaci. Nechat si čas na případné last minute touches. 
-  
+### Prosinec 
+1. polovina<br/> Práce na dokumentaci.
+2. polovina<br/> Dokončit dokumentaci. Nechat si čas na případné last minute touches.
+
 ### Problémy
   Mapování skrze pole receptů. 
 
