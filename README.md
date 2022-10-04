@@ -3,29 +3,31 @@ V rámci závěrečného projektu jsem se rozhodl vybudovat webový blog zaměř
 Mám v plánu použít **GraphCMS** pro backend a **React.js** pro frontend.
 
 ## Cíle
-- design psaný v Reactu
-- stránky se seznamem a detailem receptu, cviku
-- možnost přihlášení, přihlášení uživatele by měli k dispozici více funkcí
-- různé kalkulačky jako např. BMI, KCAL
-- aplikace by obsahovala Docker
+- React design
+- Možnost vypisovat příspěvky
+- Třídit příspěvky podle kategorií
+- Možnost přidat komentář
+- Možnost přihlášení
+Navíc:
+- Lokalizace
+- Autentifikace pomocí Google účtu
 
 ## Konzultanti
  - p.uč. Lučný
- - p.uč. Grussmann
 
 ## Použité technologie
  React, Strapi, Bootstrap
  
 ## Časový harmonogram
 ### Září
-  Studování Reactuy datový model a doplnění informací.✔️
+  Studování Reactu, doplnění dat do backendu✔️
   
 ### Říjen 
-1. Polovina:<br/> Začít psát frontend✔️<br/>
-3. Polovina:<br/> Dokončit první draft<br/> 
+1. Polovina:<br/> Začít psát frontend✔️<br/> Datový model <br/>
+2. Polovina:<br/> Dokončit první draft<br/> 
 
 ### Listopad
-1. Polovina:<br/> Doplnit aplikaci o kalkulačky BMI, KCAL a přidat animace.
+1. Polovina:<br/> Toto je období pro práci ze sekce "navíc", dokončování frontendu
 2. Polovina:<br/> Dostat aplikaci do obhajobyschopného stavu. Dokončit frontend.
 
 ### Prosinec 
