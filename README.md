@@ -17,7 +17,7 @@ Mám v plánu použít **Strapi** pro backend a **React.js** pro frontend.
  - p.uč. Grussmann
 
 ## Použité technologie
- Jak už jsem se zmínil stránku je psána v Reactu. Backend jede ve Strapi. Dále jsou zde prvky např. Apollo providera, Bootstrapu. 
+ React, Strapi, Bootstrap
 
 ## Harmonogram
 ### Září
